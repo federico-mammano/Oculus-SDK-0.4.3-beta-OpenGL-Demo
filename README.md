@@ -8,6 +8,7 @@ except for these solution files:
 - Samples\LibOVR_With_Samples_VS2010.sln
 - Samples\LibOVR_With_Samples_VS2012.sln
 - Samples\LibOVR_With_Samples_VS2013.sln
+
 They have been changed in order to include the new OpenGL project that you could find in this folder: 
 - Samples\OculusRoomTinyOGL
 
