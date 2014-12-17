@@ -13,3 +13,6 @@ They have been changed in order to include the new OpenGL project that you could
 - OculusSDK\Samples\OculusRoomTinyOGL
 
 With the aim to facilitate readability and comparison to all of you, I tried to keep the same coding style of the D3DX sample (OculusRoomTiny).
+
+I have updated the code for the newest SDK 0.4.4 Beta version here:
+https://github.com/federico-mammano/Oculus-SDK-0.4.4-beta-OpenGL-Demo
